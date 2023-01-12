@@ -1,7 +1,7 @@
 #### GoIT Fullstack Dev Course - React
 
 ## Web page:
-https://marcinwrembel.github.io/image-searcher/
+https://marcinwrembel.github.io/goit-react-hw-01-components/
 
 ### Info:
 
