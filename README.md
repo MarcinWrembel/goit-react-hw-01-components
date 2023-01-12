@@ -5,12 +5,12 @@ https://marcinwrembel.github.io/goit-react-hw-01-components/
 
 ### Info:
 
-This is first homework from React module.
+This is first homework from React module course.
 
 ### Tech details:
-- Fuctional components
-- PropTypes
-- JSON files used for data import
+- Fuction components,
+- PropTypes,
+- JSON files used for data import.
 
 
 ### Technologies:
