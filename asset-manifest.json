@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//github.com/MarcinWrembel/goit-react-hw-01-components/static/css/main.a5a0d489.css",
+    "main.js": "//github.com/MarcinWrembel/goit-react-hw-01-components/static/js/main.8a0f55b4.js",
+    "index.html": "//github.com/MarcinWrembel/goit-react-hw-01-components/index.html",
+    "main.a5a0d489.css.map": "//github.com/MarcinWrembel/goit-react-hw-01-components/static/css/main.a5a0d489.css.map",
+    "main.8a0f55b4.js.map": "//github.com/MarcinWrembel/goit-react-hw-01-components/static/js/main.8a0f55b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5a0d489.css",
+    "static/js/main.8a0f55b4.js"
+  ]
+}
